@@ -14,4 +14,3 @@ Mouse: Interact with the chessboard and pieces. Click and drag to move pieces.
 Installation:
 Download the game executable from the provided link.
 Run the executable file.
-Engage in the world of 3D chess with the Unity 3D Chess Game!
