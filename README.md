@@ -8,15 +8,9 @@ Chess Rules: The game follows traditional chess rules. Each type of chess piece 
 
 3D Environment: Enjoy the thrill of chess in a 3D space. Rotate and pan the camera to view the board from different angles and perspectives.
 
-Multiplayer or AI: Play against a friend in local multiplayer or challenge yourself against the computer AI. Choose from different AI difficulty levels to match your skill.
-
-Promotion: When a pawn reaches the opposing side of the board, you'll have the opportunity to promote it to a more powerful piece.
-
-En Passant and Castling: The game includes special moves like en passant capture and castling. Use these strategic maneuvers to gain an advantage.
-
 Controls:
 Mouse: Interact with the chessboard and pieces. Click and drag to move pieces.
-Camera Control: Click and drag on the board to rotate the camera. Scroll to zoom in and out.
+
 Installation:
 Download the game executable from the provided link.
 Run the executable file.
